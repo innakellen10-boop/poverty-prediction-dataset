@@ -1,11 +1,5 @@
 # Dataset Kemiskinan Kabupaten/Kota Indonesia 2024
 
-Dataset pendukung artikel:
-
-> A. M. B. Kellen, B. Surarso, dan Sutikno, "Seleksi Fitur dan Optimasi Parameter Premis
-> ANFIS Berbasis RHGWO untuk Prediksi Persentase Penduduk Miskin Kabupaten/Kota di
-> Indonesia," \\\*IJADIS\\\* (dalam proses revisi).
-
 Repositori ini hanya berisi data, tanpa kode.
 
 ## Berkas
